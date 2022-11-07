@@ -1,0 +1,56 @@
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\appsettings.json
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.exe
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.deps.json
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.runtimeconfig.json
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.dll
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.pdb
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\api-delivery\DeliveryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.csproj.AssemblyReference.cache
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.AssemblyInfoInputs.cache
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.AssemblyInfo.cs
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\scopedcss\bundle\DeliveryAPI.styles.css
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.csproj.CopyComplete
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.dll
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\refint\DeliveryAPI.dll
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.pdb
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.genruntimeconfig.cache
+C:\Projetos\api-delivery\DeliveryAPI\obj\Debug\net6.0\ref\DeliveryAPI.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\appsettings.json
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.exe
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.deps.json
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.runtimeconfig.json
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\DeliveryAPI.pdb
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.csproj.AssemblyReference.cache
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.AssemblyInfoInputs.cache
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.AssemblyInfo.cs
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\scopedcss\bundle\DeliveryAPI.styles.css
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.csproj.CopyComplete
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\refint\DeliveryAPI.dll
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.pdb
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\DeliveryAPI.genruntimeconfig.cache
+C:\Projetos\Teste 1 - Delivery\DeliveryAPI\obj\Debug\net6.0\ref\DeliveryAPI.dll
